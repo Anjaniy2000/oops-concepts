@@ -2,6 +2,7 @@ package classes;
 
 public class Human {
 
+    //Data-Members(States):
     public String name;
     public int age;
 
@@ -9,6 +10,7 @@ public class Human {
         System.out.println("Hi, I'm " + name + ", " + age + " Years Old Engineer.");
     }
 
+    //Methods(Behaviors):
     public void walk(){
         System.out.println("I'm Walking");
     }
