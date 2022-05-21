@@ -8,7 +8,6 @@ public class Dog {
     private int age;
 
     //Step-2: Prepared Public Getters() & Setter() Methods To Read & Write Those Data Fields.
-
     public String getName() {
         return name;
     }
