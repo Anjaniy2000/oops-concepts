@@ -1,6 +1,6 @@
 package abstraction.interfaces;
 
-public class Person implements Student, YouTuber, Footballer, VideoEditor{
+public class Person implements Student, YouTuber, Footballer{
     public static void main(String[] args) {
 
         Person person = new Person();
