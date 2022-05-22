@@ -36,4 +36,9 @@ public class Person implements Student, YouTuber, Footballer{
     public void editVideo() {
         System.out.println("Person Is Editing A Video.");
     }
+
+//    @Override
+//    public void uploadVideo(){
+//        System.out.println("Person Is Uploading A Video.");
+//    }
 }
