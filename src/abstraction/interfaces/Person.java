@@ -4,11 +4,17 @@ public class Person implements Student, YouTuber, Footballer{
     public static void main(String[] args) {
 
         Person person = new Person();
-        person.Study();
-        person.playFootball();
-        person.makeVideo();
-        person.editVideo();
-        person.uploadVideo();
+//        person.Study();
+//        person.playFootball();
+//        person.makeVideo();
+//        person.editVideo();
+//        person.uploadVideo();
+
+        //Upcasting:
+        YouTuber youTuber = person;
+        youTuber.makeVideo();
+        youTuber.editVideo();
+        youTuber.uploadVideo();
     }
 
     @Override
