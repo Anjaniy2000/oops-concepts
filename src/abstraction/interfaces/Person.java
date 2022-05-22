@@ -10,7 +10,7 @@ public class Person implements Student, YouTuber, Footballer{
         person.editVideo();
         person.uploadVideo();
 
-        //Upcasting:
+        //Object-Upcasting:
 //        YouTuber youTuber = person;
 //        youTuber.makeVideo();
 //        youTuber.editVideo();

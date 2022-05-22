@@ -5,7 +5,7 @@ public class MainClass {
         Dog toby = new Dog();
         toby.walk();
 
-        Pet pet = toby; //Upcasting
+        Pet pet = toby; //Object-Upcasting
         pet.walk();
     }
 }
