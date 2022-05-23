@@ -6,12 +6,12 @@ public class Final extends A{
 
         //Final-Variable:
         final String name = "Jay";
-        name = "Anjaniy";
+//        name = "Anjaniy";
 
         //Trying To Override Final Method(Greet):
-        public static void greet(){
-            System.out.println("Good Evening.");
-        }
+//        public static void greet(){
+//            System.out.println("Good Evening.");
+//        }
     }
 }
 
@@ -29,6 +29,6 @@ final class B{
 }
 
 //Trying To Extend The Final-Class(B):
-class C extends B{
-
-}
+//class C extends B{
+//
+//}
