@@ -6,7 +6,7 @@ public class VehicleModel {
     public int headLights;
     public String color;
 
-    //Empty-Constructor:
+    //Empty-Constructor(Customizing Java's Default-Constructor):
     public VehicleModel(){
         this.wheels = 2;
         this.headLights = 2;
