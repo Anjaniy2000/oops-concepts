@@ -8,7 +8,8 @@ public class TryCatchFinally {
         //ArrayIndexOutOfBoundsException:
         try{
             System.out.println(array[10]);
-        }catch(Exception e){
+        }catch(Exception e)//Can Be Exception Object Or Any Specific Exception:
+        {
             e.printStackTrace();
         }finally {
             System.out.println("Finally Block Will Be Always Executed After Try-Catch Block, No Matter What!");
@@ -17,7 +18,8 @@ public class TryCatchFinally {
         //Divide By Zero:
         try {
             System.out.println(5 / 0);
-        }catch(Exception e){
+        }catch(ArithmeticException e)//Can Be Exception Object Or Any Specific Exception:
+        {
             e.printStackTrace();
         }finally {
             System.out.println("Finally Block Will Be Always Executed After Try-Catch Block, No Matter What!");
