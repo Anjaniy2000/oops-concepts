@@ -14,3 +14,4 @@
 * Exception Handling
 * Dimond Problem
 * Singleton Class
+* Type Casting
