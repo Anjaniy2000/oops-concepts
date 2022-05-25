@@ -8,6 +8,7 @@ public class MainClass{
     }
 }
 
+//Solution: By Creating Interfaces(GrandParrent, Parent-1 & Parent-2), And Implementing It.
 class Child implements Parent1, Parent2{
 
     @Override
