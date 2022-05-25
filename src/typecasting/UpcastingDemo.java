@@ -8,15 +8,3 @@ public class UpcastingDemo {
     }
 
 }
-
-class Parent{
-    public void show(){
-        System.out.println("Inside Parent Class.");
-    }
-}
-
-class Child extends Parent{
-    public void greet(){
-        System.out.println("Good Morning.");
-    }
-}
