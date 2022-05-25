@@ -13,3 +13,4 @@
 * Java Keywords
 * Exception Handling
 * Dimond Problem
+* Singleton Class
