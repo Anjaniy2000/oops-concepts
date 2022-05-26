@@ -1,4 +1,4 @@
-package dimond_problem;
+package diamond_problem;
 
 //This Will Give Compile Time Error(Can't Inherit More Than One Class).
 public class Child extends Parent1, Parent2{

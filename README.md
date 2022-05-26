@@ -12,5 +12,5 @@
 * Packages
 * Java Keywords
 * Exception Handling
-* Dimond Problem
+* Diamond Problem
 * Singleton Class

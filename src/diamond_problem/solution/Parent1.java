@@ -1,4 +1,4 @@
-package dimond_problem.solution;
+package diamond_problem.solution;
 
 public interface Parent1 extends GrandParent{
     public abstract void walk();

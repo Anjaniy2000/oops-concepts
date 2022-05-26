@@ -1,6 +1,6 @@
-package dimond_problem;
+package diamond_problem;
 
-public class GrandParent {
+public class Parent2 extends GrandParent{
     public void walk(){
         System.out.println("Walking");
     }

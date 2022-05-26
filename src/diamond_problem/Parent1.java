@@ -1,4 +1,4 @@
-package dimond_problem;
+package diamond_problem;
 
 public class Parent1 extends GrandParent{
     public void walk(){
