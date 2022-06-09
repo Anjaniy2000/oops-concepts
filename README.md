@@ -14,4 +14,4 @@
 * Exception Handling
 * Diamond Problem
 * Singleton Class
-* Type Casting
+* Object Type Casting
